@@ -58,4 +58,4 @@ Setting up Active Directory (AD) involves installing the Active Directory Domain
 <a href="https://imgur.com/nyOGS9l"><img src="https://i.imgur.com/nyOGS9l.png" title="source: imgur.com" /></a>
 
 
-Using PowerShell in Active Directory allows you to perform various administrative tasks, automate processes, and manage Active Directory objects more efficiently
+Using PowerShell in Active Directory allows you to perform various administrative tasks, automate processes, and manage Active Directory objects more efficiently.
