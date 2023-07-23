@@ -35,7 +35,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <a href="https://imgur.com/m68Q8wy"><img src="https://i.imgur.com/m68Q8wy.png" title="source: imgur.com" /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating a virtual machine (VM) in Microsoft Azure is indeed the first step in deploying Active Directory (AD) since Active Directory requires a Windows Server environment to run. 
 </p>
 <br />
 
@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a href="https://imgur.com/sm51JPY"><img src="https://i.imgur.com/sm51JPY.png" title="source: imgur.com" /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After creating the virtual machine (VM) in Microsoft Azure, the next step is to remote sign into the VM to set up Active Directory (AD). Remote signing in allows you to access and configure the VM from your local machine. 
 </p>
 <br />
 
@@ -51,10 +51,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a href="https://imgur.com/4kY0lCz"><img src="https://i.imgur.com/4kY0lCz.png" title="source: imgur.com" /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Setting up Active Directory (AD) involves installing the Active Directory Domain Services (AD DS) role on a Windows Server and configuring it to act as a domain controller. 
 </p>
 <br />
 
 <a href="https://imgur.com/nyOGS9l"><img src="https://i.imgur.com/nyOGS9l.png" title="source: imgur.com" /></a>
 
 
+Using PowerShell in Active Directory allows you to perform various administrative tasks, automate processes, and manage Active Directory objects more efficiently
